@@ -6,13 +6,25 @@ I know I still have a lot of room for improvement but I believe this was a good 
 
 ## Stack used
 
-**Front-end:** React, Vite Js, Tailwind CSS
+**Front-end:** Vite Js, React Js, Javascript, Tailwind CSS
+
+
+## Dependencies
+
+```bash
+  npm create vite@latest . -- --template react
+  npm install -D tailwindcss postcss autoprefixer
+  npx tailwindcss init -p
+  npm install react-icons
+  npm install @fontsource-variable/nunito
+```
 
 
 ## Reference
 
- - [Aesthetics and Products](https://www.nike.com.br/)
+ - [Aesthetics and Products](https://www.nike.com.br/)    
 
 ## Demonstration
+
 
 ![Nike](https://github.com/ArthurSantDev/Nike-Store/assets/159972613/b1fd2b88-abe3-4931-9e7b-ee017f26ce6b)
