@@ -15,4 +15,4 @@ I know I still have a lot of room for improvement but I believe this was a good 
 
 ## Demonstration
 
-![Nike](https://github.com/ArthurSantDev/Nike-Store/assets/159972613/00e693ae-45f7-42df-a3ce-e420e34a0855)
+![Nike](https://github.com/ArthurSantDev/Nike-Store/assets/159972613/b1fd2b88-abe3-4931-9e7b-ee017f26ce6b)
