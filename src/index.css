@@ -1,0 +1,304 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    body {
+        user-select: none;
+        font-family: 'Nunito Sans Variable', sans-serif;
+    }
+
+    a {
+        cursor: pointer;
+    } a:hover {
+        color: white;
+    }
+}
+
+@layer utilities {
+    .button-press {
+        @apply
+        transition active:scale-75
+    }
+
+    .flex-center {
+        @apply
+        flex
+        items-center
+        justify-center
+    }
+
+    .-pt-32 {
+        paddin-top: -32px;
+    }
+}
+
+@layer components {
+
+    .nikeLogo {
+        @apply
+        h-20 
+        w-20 
+        dark:fill-white
+    }
+    
+    .nav {
+        @apply
+        lg:-mt-6
+        w-full
+        flex 
+        flex-wrap
+        items-center 
+        justify-between
+        z-10
+        lg:py-2
+        px-10
+        xl:px-24
+        fixed
+        backdrop-blur-md
+    }
+
+    .mobileButton {
+        @apply 
+        p-2 
+        cursor-pointer
+        rounded-lg 
+        active:ring-2 
+        active:ring-gray-200 
+        active:bg-gray-200
+        lg:hover:bg-gray-100
+        lg:hidden
+    }
+
+    .menuUl {
+        @apply 
+        flex
+        flex-col
+        p-4
+        lg:-mr-5
+        mb-4
+        md:mb-0
+        text-xl 
+        rounded-xl  
+        bg-gray-50 
+        border-gray-200
+        lg:space-x-8
+        lg:flex-row
+        lg:bg-transparent
+    }
+
+    .menuLi {
+        @apply 
+        px-3 
+        py-2 
+        rounded-lg 
+        cursor-pointer
+    }
+
+    .homeMobile {
+        @apply
+        bg-blue-500 
+        lg:bg-transparent 
+        lg:text-blue-500 
+        lg:dark:text-blue-400 
+        lg:hover:bg-blue-200 
+        transition-all duration-100
+    }
+
+    .homeDesk {
+        @apply
+        hover:bg-gray-200 
+        dark:hover:bg-gray-500 
+        lg:dark:text-white 
+        dark:text-black 
+        transition-all duration-100
+    }
+
+/* /////////////////////////////////////////////////// */ 
+    .homeContainer {
+        @apply
+        pt-20 px-8 xl:px-24 lg:h-screen md:-mb-10 items-center
+    }
+
+    .textsAndImg {
+        @apply
+        flex flex-col items-center justify-center space-y-4 lg:flex-row-reverse
+    }
+
+    .homeTexts {
+        @apply
+        flex-1 space-y-4 items-center
+    }
+
+    .homeTitle {
+        @apply
+        text-4xl font-black md:text-8xl
+    }
+
+    .homeDescription {
+        @apply
+        font-medium md:text-xl lg:mr-5
+    }
+    
+    .homePrice {
+        @apply
+        text-3xl font-extrabold md:text-6xl
+    }
+    
+    .arrowDown {
+        @apply
+        pointer-events-none flex-center absolute inset-y-0 right-0 pr-3
+    }
+
+    .qtySize {
+        @apply
+        w-24 bg-white appearance-none border border-gray-300 p-4 cursor-pointer
+    }
+
+    .AddToBag {
+        @apply
+        button-press h-14 w-44 bg-black text-white hover:bg-gray-900 active:bg-gray-700 dark:bg-white dark:text-black dark:hover:bg-gray-500
+    }
+
+    .viewDetails {
+        @apply
+        text-lg font-bold ml-5 underline underline-offset-4 lg:hover:text-blue-700
+    }
+
+    .imgSize {
+        @apply
+        flex-1 lg:-pt-32
+    }
+
+    .imgBg {
+        @apply
+        p-1 flex-center h-full bg-gradient-to-br from-[#F637CF] via-[#E3D876] via-40% to-[#4DD4C6]
+    }
+
+/* /////////////////////////////////////////////////// */
+    .bagPosition {
+        @apply
+        fixed bottom-9 left-5 lg:left-6 lg:mr-2
+    }
+
+    .bagDiv {
+        @apply
+        flex-center
+        h-12
+        w-12
+        rounded-full
+        bg-white
+        hover:bg-gray-200
+        shadow-xl
+        hover:shadow-xl
+        cursor-pointer
+        button-press 
+        dark:text-night-50
+        transition-all duration-300
+    }
+    
+    .bagSideBar {
+        @apply
+        dark:bg-night-500 overflow-y-auto p-10 fixed z-10 top-0 right-0 h-full w-full shadow-lg md:w-[50%] lg:w-[35%] bg-white transition duration-300 delay-0 transform
+    }
+
+    .bagTitle {
+        @apply
+        text-4xl font-bold mb-10
+    }
+
+    .bagButton {
+        @apply
+        absolute top-10 right-10 p-2 text-black font-bold text-xl dark:text-white
+    }
+
+    .bagItem {
+        @apply
+        hover:bg-[#DAFFA2] dark:hover:bg-blue-950 p-4 cursor-pointer mt-2 mb-2 space-y-1
+    }
+
+    .bagSidebarShadow {
+        @apply
+        fixed top-0 left-0 h-full w-full bg-black opacity-45
+    }
+
+    .theme {
+        @apply
+        shadow-xl bg-night-50 text-white py-2 px-4 rounded-full dark:bg-white dark:text-night-50
+    }
+
+/* /////////////////////////////////////////////////// */
+    .cardSection {
+        @apply 
+        mt-12
+        lg:mt-4 
+        mb-24 
+        px-7 
+        xl:px-24
+    }
+
+    .newArrivels {
+        @apply
+        text-4xl 
+        font-extrabold 
+        bg-[url("./assets/lines.png")]
+        bg-center
+        dark:bg-none
+    }
+
+    .cardGrid {
+        @apply
+        mt-10 
+        grid 
+        grid-cols-1 
+        gap-y-14 
+        gap-x-6 
+        md:grid-cols-2 
+        xl:grid-cols-3
+    }
+
+    .card {
+        @apply
+        max-w-xl transition hover:scale-105 text-black cursor-pointer relative
+    }
+
+    .cardTitle {
+        @apply
+        text-2xl font-bold mr-16
+    }
+
+    .cardShop {
+        @apply
+        underline underline-offset-4 mt-5 font-semibold
+    }
+    
+    .cardImg {
+        @apply
+        h-40
+        absolute 
+        top-2 
+        right-1 
+        2xl:right-8
+    }
+
+/* /////////////////////////////////////////////////// */
+    .footerGrid {
+        @apply
+        pt-10 px-20 pb-10 -mb-20 text-sm bg-[#0f0f0f] text-gray-400 grid grid-cols-1 gap-y-14 gap-x-6 md:grid-cols-2 xl:grid-cols-4 items-center justify-between
+    }
+
+    .footerTitle {
+        @apply
+        text-xl  text-white
+    }
+
+    .footerItems {
+        @apply
+        flex flex-col items-center
+    }
+
+    .socialIcons {
+        @apply
+        text-2xl p-1 mx-2
+    }
+}
