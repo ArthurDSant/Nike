@@ -1,7 +1,7 @@
-import nike1 from "../assets/n1-min.png";
-import nike2 from "../assets/n2-min.png";
-import nike3 from "../assets/n3-min.png";
-import nike4 from "../assets/n4-min.png";
+import nike1 from "../assets/n1-min.svg";
+import nike2 from "../assets/n2-min.svg";
+import nike3 from "../assets/n3-min.svg";
+import nike4 from "../assets/n4-min.svg";
 
 export const SIZES = [36,37,38,39,40,41,42,43];
 export const QTY = [1, 2, 3, 4, 5];
