@@ -9,7 +9,7 @@ I know I still have a lot of room for improvement but I believe this was a good 
 **Front-end:** Vite Js, React Js, Javascript, Tailwind CSS
 
 
-## Dependencies
+## Installation
 
 ```bash
   npm create vite@latest . -- --template react
@@ -24,7 +24,7 @@ I know I still have a lot of room for improvement but I believe this was a good 
 
  - [Aesthetics and Products](https://www.nike.com.br/)    
 
-## Demonstration
+## Screenshots
 
 
 ![Nike](https://github.com/ArthurSantDev/Nike-Store/assets/159972613/b1fd2b88-abe3-4931-9e7b-ee017f26ce6b)
