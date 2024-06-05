@@ -48,7 +48,7 @@
     .nikeLogo {
         @apply
         h-20 
-        w-20 
+        w-20
         dark:fill-white
     }
     
@@ -62,7 +62,7 @@
         justify-between
         z-10
         lg:py-2
-        px-10
+        px-7
         xl:px-24
         fixed
         backdrop-blur-md
