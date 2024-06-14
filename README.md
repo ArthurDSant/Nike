@@ -18,15 +18,28 @@ I know I still have a lot of room for improvement but I believe this was a good 
 
 
 ## Screenshots
-![Nike Light](https://github.com/ArthurSantDev/Nike-Store/assets/159972613/1270146a-af97-4b8e-ad1b-ba94f9cf4df9)
+#### Light Mode
+![L1](https://github.com/ArthurSantDev/Nike/assets/159972613/2edb0ef1-d840-4856-95f5-fae81d4e3696)
 
-![Nike Night](https://github.com/ArthurSantDev/Nike-Store/assets/159972613/643d51c0-5571-47ea-b716-4e0ca796a86c)
+![L2](https://github.com/ArthurSantDev/Nike/assets/159972613/cc34925a-b67c-4b8b-9a7d-5f37034b0fe3)
 
-![light 1](https://github.com/ArthurSantDev/Nike-Store/assets/159972613/77b47ec6-1d61-47ca-9129-7678058ab278)
-![light 2](https://github.com/ArthurSantDev/Nike-Store/assets/159972613/f30c9ed5-ebf1-4ae9-9966-79b4202b63c8)
-![light 3](https://github.com/ArthurSantDev/Nike-Store/assets/159972613/31ed5b8c-e4c8-4c30-b00a-1c3e29e75b01)
+![L3](https://github.com/ArthurSantDev/Nike/assets/159972613/ff9152c7-09fc-4216-8096-917fa8a8dc6a)
 
-![night 1](https://github.com/ArthurSantDev/Nike-Store/assets/159972613/c25bd8ca-448f-4986-aa1c-60f45d33b9d0)
-![night 2](https://github.com/ArthurSantDev/Nike-Store/assets/159972613/deb92dbf-dfef-4d96-9d35-fa7516ec7f9d)
-![night 3](https://github.com/ArthurSantDev/Nike-Store/assets/159972613/8cc1cffe-a7ee-4741-9de7-f8574dccae76)
+![L4](https://github.com/ArthurSantDev/Nike/assets/159972613/75085e58-42b6-4bae-af1a-a9262c95b2fd)
 
+![ML1](https://github.com/ArthurSantDev/Nike/assets/159972613/02c447bf-89db-4366-a710-d60527d4471b)
+![ML2](https://github.com/ArthurSantDev/Nike/assets/159972613/dc5b3c1e-bbdd-45bb-bcfa-d70d55ea88a2)
+![ML3](https://github.com/ArthurSantDev/Nike/assets/159972613/b9378951-89f2-438a-8006-e4c505fbabd1)
+
+#### Dark Mode
+![N1](https://github.com/ArthurSantDev/Nike/assets/159972613/1e1a708b-7a9e-47ce-a2f6-0a4169f7e328)
+
+![N2](https://github.com/ArthurSantDev/Nike/assets/159972613/c1316804-c0b7-463f-a96f-d80fb05a6434)
+
+![N3](https://github.com/ArthurSantDev/Nike/assets/159972613/0bb63239-8449-4838-b87f-2b200e41c24b)
+
+![N4](https://github.com/ArthurSantDev/Nike/assets/159972613/6a3c3459-d384-4980-b89b-52fc05fe7567)
+
+![MN1](https://github.com/ArthurSantDev/Nike/assets/159972613/2da848dd-074d-44f2-8e47-827219d7ea8b)
+![MN2](https://github.com/ArthurSantDev/Nike/assets/159972613/afc859b3-e970-4663-bbbd-60cac9c522fb)
+![MN3](https://github.com/ArthurSantDev/Nike/assets/159972613/f57563cf-f4e5-421e-874b-40a656a827cb)
