@@ -7,6 +7,21 @@ I know I still have a lot of room for improvement but I believe this was a good 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 
 
+## Features
+- Dark and light themes
+- Responsive UX/UI Design
+- Front End structured in React 
+- Vite.Js framework for greater application agility
+- Tailwind CSS for component customization
+- Bag with addition and removal of items, allowing you to change their quantity and size
+- Home page changes according to the selected item, changing its image, details and price
+- Fixed navbar for greater comfort when navigating the application on mobile
+
+## Learnings
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) Tailwind is a framework that has easy-to-use pre-defined classes, which eliminates the need to write custom CSS code absolutely and gives you the freedom to create reusable styles, making code creation and maintenance simple and effective. I learned the 'Mobile-First' approach that makes it easier to create responsive layouts
+. The possibility of customizing the Framework through the 'tailwind.conmfig.js' configuration file is a big difference, allowing precise adjustments when necessary. And the main thing that, in my opinion, makes Tailwind a unique Framework is the efficiency in defining styles, avoiding a huge, confusing and unnecessarily complex CSS file,
+making code maintenance and understanding infinitely simpler.
+
 ## Installation
 ```bash
   npm create vite@latest . -- --template react
