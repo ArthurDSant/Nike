@@ -61,7 +61,7 @@
         items-center 
         justify-between
         z-10
-        lg:py-2
+        lg:py-0
         px-7
         xl:px-24
         fixed
@@ -88,7 +88,7 @@
         lg:-mr-5
         mb-4
         md:mb-0
-        text-xl 
+        text-base
         rounded-xl  
         bg-gray-50 
         border-gray-200
@@ -117,11 +117,9 @@
 
     .homeDesk {
         @apply
-        hover:bg-gray-200 
-        dark:hover:bg-gray-500 
-        lg:dark:text-white 
-        dark:text-black 
-        transition-all duration-100
+        lg:hover:text-blue-400
+        lg:dark:text-white
+        transition-all duration-200
     }
 
 /* /////////////////////////////////////////////////// */ 
@@ -162,7 +160,7 @@
 
     .qtySize {
         @apply
-        w-24 bg-white appearance-none border border-gray-300 p-4 cursor-pointer
+        w-24 bg-white appearance-none border border-gray-300 p-4 cursor-pointer dark:bg-night-500 dark:text-white dark:border-gray-800
     }
 
     .AddToBag {
@@ -172,7 +170,7 @@
 
     .viewDetails {
         @apply
-        text-lg font-bold ml-5 underline underline-offset-4 lg:hover:text-blue-700
+        text-lg font-bold underline underline-offset-4 lg:hover:text-blue-700 ml-9
     }
 
     .imgSize {
@@ -294,21 +292,31 @@
 /* /////////////////////////////////////////////////// */
     .footerGrid {
         @apply
-        pt-10 px-20 pb-10 -mb-20 text-sm bg-[#0f0f0f] text-gray-400 grid grid-cols-1 gap-y-14 gap-x-6 md:grid-cols-2 xl:grid-cols-4 items-center justify-between
+        grid gap-14 pt-10 px-20 pb-10 -mb-20 text-sm bg-[#0f0f0f] text-gray-400 md:grid-cols-2 xl:grid-cols-4 justify-between
     }
 
     .footerTitle {
         @apply
-        text-xl  text-white
+        text-lg  text-white
     }
 
     .footerItems {
         @apply
-        flex flex-col items-center
+        flex flex-col w-[300px] text-xs items-start text-start md:ml-2
+    }
+
+    .footerItemsSmall {
+        @apply
+        flex flex-col w-[200px] text-xs items-start text-start 
+    }
+
+    .footerSocial {
+        @apply
+        flex flex-col w-[140px] items-start text-start 
     }
 
     .socialIcons {
         @apply
-        text-2xl p-1 mx-2
+        text-xl p-1 mx-2 items-center
     }
 }
