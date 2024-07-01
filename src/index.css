@@ -125,7 +125,7 @@
 /* /////////////////////////////////////////////////// */ 
     .homeContainer {
         @apply
-        pt-20 px-8 xl:px-24 lg:h-screen md:-mb-10 items-center
+        pt-16 px-8 xl:px-24 lg:h-screen md:-mb-10 items-center
     }
 
     .textsAndImg {
