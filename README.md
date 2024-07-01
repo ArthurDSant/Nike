@@ -1,4 +1,6 @@
 # Nike Store
+![Nike](https://github.com/ArthurSantDev/Nike/assets/159972613/828934bb-a4b7-4047-99d6-88dcf7881b64)
+
 This project was my first interaction with Tailwind CSS, with the aim of familiarizing myself with the Framework. I used Nike's aesthetics as a reference for this project, trying to adapt an e-commerce in a different way, to explore the possibilities of the Framework.
 I know I still have a lot of room for improvement but I believe this was a good start.
 
@@ -33,28 +35,28 @@ making code maintenance and understanding infinitely simpler.
 
 
 ## Screenshots
-#### Light Mode
-![L1](https://github.com/ArthurSantDev/Nike/assets/159972613/2edb0ef1-d840-4856-95f5-fae81d4e3696)
+### Light Mode
+![Nike Pc Light 1](https://github.com/ArthurSantDev/Nike/assets/159972613/6efec24b-707e-4633-aa4a-a5cbb5f769c1)
 
-![L2](https://github.com/ArthurSantDev/Nike/assets/159972613/cc34925a-b67c-4b8b-9a7d-5f37034b0fe3)
+![Nike Pc Light 2](https://github.com/ArthurSantDev/Nike/assets/159972613/03702fb9-5acc-4bdf-99c6-ab1c00f2d0c5)
 
-![L3](https://github.com/ArthurSantDev/Nike/assets/159972613/ff9152c7-09fc-4216-8096-917fa8a8dc6a)
+![Nike Pc Light 3](https://github.com/ArthurSantDev/Nike/assets/159972613/dcf0f965-fa04-4ea9-9557-f388ceb47abd)
 
-![L4](https://github.com/ArthurSantDev/Nike/assets/159972613/75085e58-42b6-4bae-af1a-a9262c95b2fd)
+![Nike Pc Light 4](https://github.com/ArthurSantDev/Nike/assets/159972613/ac914dca-5371-4daa-8e8d-5c5a20e3cbc0)
 
-![ML1](https://github.com/ArthurSantDev/Nike/assets/159972613/02c447bf-89db-4366-a710-d60527d4471b)
-![ML2](https://github.com/ArthurSantDev/Nike/assets/159972613/dc5b3c1e-bbdd-45bb-bcfa-d70d55ea88a2)
-![ML3](https://github.com/ArthurSantDev/Nike/assets/159972613/b9378951-89f2-438a-8006-e4c505fbabd1)
+![Nike Iphone Light 1](https://github.com/ArthurSantDev/Nike/assets/159972613/bf73bdff-f14a-4638-a5ad-1a7d2e1e3412)
+![Nike Iphone Light 2](https://github.com/ArthurSantDev/Nike/assets/159972613/506bf725-5879-45fa-a4d9-c2aa39da1af9)
+![Nike Iphone Light 3](https://github.com/ArthurSantDev/Nike/assets/159972613/572f710b-53e9-4dfe-8cd3-faaff318e702)
 
-#### Dark Mode
-![N1](https://github.com/ArthurSantDev/Nike/assets/159972613/1e1a708b-7a9e-47ce-a2f6-0a4169f7e328)
+### Dark Mode
+![Nike Pc Dark 1](https://github.com/ArthurSantDev/Nike/assets/159972613/59a0a9f0-8afa-4995-baf3-dbb10d66e2c5)
 
-![N2](https://github.com/ArthurSantDev/Nike/assets/159972613/c1316804-c0b7-463f-a96f-d80fb05a6434)
+![Nike Pc Dark 2](https://github.com/ArthurSantDev/Nike/assets/159972613/b6f37586-28c2-4276-9359-98f9a4d287ab)
 
-![N3](https://github.com/ArthurSantDev/Nike/assets/159972613/0bb63239-8449-4838-b87f-2b200e41c24b)
+![Nike Pc Dark 3](https://github.com/ArthurSantDev/Nike/assets/159972613/8aa19037-0198-4ac4-ab8d-4ccbd2755c0c)
 
-![N4](https://github.com/ArthurSantDev/Nike/assets/159972613/6a3c3459-d384-4980-b89b-52fc05fe7567)
+![Nike Pc Dark 4](https://github.com/ArthurSantDev/Nike/assets/159972613/34be5dfe-f26e-448d-ad80-21d291f16de3)
 
-![MN1](https://github.com/ArthurSantDev/Nike/assets/159972613/2da848dd-074d-44f2-8e47-827219d7ea8b)
-![MN2](https://github.com/ArthurSantDev/Nike/assets/159972613/afc859b3-e970-4663-bbbd-60cac9c522fb)
-![MN3](https://github.com/ArthurSantDev/Nike/assets/159972613/f57563cf-f4e5-421e-874b-40a656a827cb)
+![Nike Iphone Dark 1](https://github.com/ArthurSantDev/Nike/assets/159972613/741cad91-bdca-4e2d-ad24-336541301c61)
+![Nike Iphone Dark 2](https://github.com/ArthurSantDev/Nike/assets/159972613/b63c895c-0627-4e92-b8f4-02712c6d156d)
+![Nike Iphone Dark 3](https://github.com/ArthurSantDev/Nike/assets/159972613/373e55af-0656-40e1-9588-d024dadc3c2d)
