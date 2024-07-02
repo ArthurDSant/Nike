@@ -1,11 +1,12 @@
 import { useState } from "react";
-import NikeLogo from '../assets/nike-logo.svg?react'
+import NikeLogo from '../../public/assets/nike-logo.svg?react'
 import { RxHamburgerMenu } from "react-icons/rx";
 
 
-const ROUTES = ['Home','About','Services','Pricing','Contacts']
+const ROUTES = ['Home','Products','Pricing' ,'Services']
 function Nav() {
   const [isMobileMenuShown, setisMobileMenuShown] = useState(false)
+  
   return (
     <>
       <nav className='nav'>

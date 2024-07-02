@@ -51,7 +51,7 @@ const Home = ({shoe, onClickToAdd}) => {
                 className='AddToBag'>
                   Add to bag
               </button>
-              <a href="/" className='viewDetails  wrap-nowrap'>
+              <a href="https://www.nike.com.br/sc/sportswear-tenis-nike-airmax" className='viewDetails  wrap-nowrap' target='_blank'>
                   View details
               </a>
               <p className="invisible lg:visible md:flex-center font-bold md:p-4 lg:text-4xl lg:mt-0 animate-float">

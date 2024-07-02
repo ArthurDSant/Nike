@@ -89,7 +89,6 @@
         mb-4
         md:mb-0
         text-base
-        font-semibold
         rounded-xl  
         bg-gray-50 
         border-gray-200
@@ -113,7 +112,8 @@
         lg:bg-transparent 
         lg:text-blue-500 
         lg:dark:text-blue-400 
-        lg:hover:bg-blue-200 
+        lg:hover:text-gray-300
+        lg:dark:hover:text-gray-300
         transition-all duration-100
     }
 
@@ -121,6 +121,7 @@
         @apply
         lg:hover:text-blue-400
         lg:dark:text-white
+        lg:dark:hover:text-blue-400
         transition-all duration-200
     }
 
@@ -176,6 +177,11 @@
     }
 
     .imgSize {
+        @apply
+        flex-1 lg:-pt-32
+    }
+
+    .imgSize img {
         @apply
         flex-1 lg:-pt-32
     }
